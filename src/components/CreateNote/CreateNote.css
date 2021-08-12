@@ -8,3 +8,14 @@ button {
     background-color: white;
 }
 
+.note {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+    padding: 10px 15px;
+    width: 30rem;
+    height: 8rem;
+    margin: 2rem auto;
+    font-size: 1.2rem;
+}
+
