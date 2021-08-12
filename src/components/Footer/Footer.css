@@ -1,0 +1,10 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    height: 2.5rem;
+}
+
+footer p {
+    color: #ccc;
+}

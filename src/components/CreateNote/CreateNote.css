@@ -1,0 +1,10 @@
+button {
+    float: right;
+    color: #f5ba13;
+    text-decoration: none;
+    font-size: 85%;
+    margin-right: 10px;
+    border: none;
+    background-color: white;
+}
+
